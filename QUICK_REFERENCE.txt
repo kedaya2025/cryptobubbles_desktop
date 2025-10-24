@@ -1,0 +1,48 @@
+╔═══════════════════════════════════════════════════════════════╗
+║         CRYPTO BUBBLES DESKTOP - QUICK REFERENCE              ║
+╚═══════════════════════════════════════════════════════════════╝
+
+📦 READY-TO-USE EXECUTABLE
+  Location: dist\CryptoBubbles.exe
+  Size: 45 MB
+  Just double-click to run!
+
+🚀 QUICK START OPTIONS
+  1. Run executable:     dist\CryptoBubbles.exe
+  2. Run from source:    python crypto_bubbles_app.py
+  3. Use quick menu:     quick_start.bat
+
+🔨 BUILD COMMANDS
+  Install deps:          pip install -r requirements.txt
+  Build exe:             python build_exe.py
+  Convert icon:          python convert_icon.py
+  Refresh icon cache:    刷新图标缓存.bat (as admin)
+
+📤 GITHUB PUBLISHING
+  1. Initialize:         init_git.bat
+  2. Create repo:        github.com/new
+  3. Push code:          See GitHub_Setup.md
+  4. Create release:     Upload dist\CryptoBubbles.exe
+
+📁 KEY FILES
+  Main app:              crypto_bubbles_app.py
+  Build script:          build_exe.py
+  Documentation:         README.md
+  Setup guide:           GitHub_Setup.md
+  Project summary:       PROJECT_SUMMARY.md
+
+🛠️ TROUBLESHOOTING
+  Icon issues:           Run 刷新图标缓存.bat as admin
+  Build errors:          Check Python 3.7+ installed
+  Network issues:        Check firewall settings
+  
+📚 DOCUMENTATION
+  README.md              - Main documentation
+  CONTRIBUTING.md        - How to contribute
+  CHANGELOG.md           - Version history
+  GitHub_Setup.md        - Publishing guide
+  PROJECT_SUMMARY.md     - Complete overview
+
+✨ PROJECT STATUS: READY FOR GITHUB! ✨
+
+Next step: Run init_git.bat to start!
