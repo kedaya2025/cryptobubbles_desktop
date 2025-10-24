@@ -18,17 +18,10 @@
   Convert icon:          python convert_icon.py
   Refresh icon cache:    刷新图标缓存.bat (as admin)
 
-📤 GITHUB PUBLISHING
-  1. Initialize:         init_git.bat
-  2. Create repo:        github.com/new
-  3. Push code:          See GitHub_Setup.md
-  4. Create release:     Upload dist\CryptoBubbles.exe
-
 📁 KEY FILES
   Main app:              crypto_bubbles_app.py
   Build script:          build_exe.py
   Documentation:         README.md
-  Setup guide:           GitHub_Setup.md
   Project summary:       PROJECT_SUMMARY.md
 
 🛠️ TROUBLESHOOTING
@@ -40,9 +33,6 @@
   README.md              - Main documentation
   CONTRIBUTING.md        - How to contribute
   CHANGELOG.md           - Version history
-  GitHub_Setup.md        - Publishing guide
   PROJECT_SUMMARY.md     - Complete overview
 
 ✨ PROJECT STATUS: READY FOR GITHUB! ✨
-
-Next step: Run init_git.bat to start!
